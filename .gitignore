@@ -1,4 +1,4 @@
 #ignore csv data files
 #as they dont need to be on git
-test.csv
-train.csv
+
+*.csv
